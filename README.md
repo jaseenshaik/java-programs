@@ -1,14 +1,62 @@
-# Java Practice Programs ☕
+# ☕ Java Practice Programs
 
-This repository contains my Java practice programs as I learn and improve my coding skills.
+🚀 Welcome to my Java learning journey!
 
-## Programs Included
-- Hello World
-- Even Odd Check
-- Prime Number
-- Palindrome
-- Factorial
-- Fibonacci Series
-- Calculator
+Hi, I'm **Jaseen Shaik**  
+🎓 ECE Student (3-2) | Aspiring Software Developer  
+💻 Passionate about coding and transitioning from ECE → IT  
 
-I will keep updating this repository regularly.
+---
+
+## 📌 About This Repository
+This repository contains my Java practice programs, where I am building strong programming fundamentals step by step.
+
+I created this repo to:
+- Improve problem-solving skills
+- Learn Java concepts
+- Practice daily coding
+- Prepare for IT jobs & internships
+
+---
+
+## 🧠 Programs Included
+
+✔ Hello World  
+✔ Even or Odd Checker  
+✔ Prime Number Checker  
+✔ Palindrome Number  
+✔ Factorial Calculator  
+✔ Fibonacci Series  
+✔ Largest of Three Numbers  
+✔ Swap Two Numbers  
+✔ Multiplication Table  
+✔ Simple Calculator  
+
+More programs coming soon... 🔥
+
+---
+
+## 🛠 Skills I'm Building
+- Core Java
+- Logical Thinking
+- Problem Solving
+- Programming Basics
+
+---
+
+## 🎯 My Goal
+To become a skilled Software Developer and start my career in the IT industry.
+
+---
+
+## 📅 Learning Progress
+I am regularly updating this repository with new programs and mini-projects as I continue learning.
+
+---
+
+## 🤝 Connect With Me
+📌 GitHub: https://github.com/jaseenshaik
+
+---
+
+⭐ If you like this repository, feel free to star it!
